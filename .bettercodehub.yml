@@ -1,0 +1,25 @@
+component_depth: 1
+languages:
+- java
+exclude:
+- ./bin/.*
+- ./bin/org/.*
+- ./bin/org/apache/.*
+- ./bin/org/apache/commons/.*
+- ./bin/org/apache/commons/collections/.*
+- ./bin/org/apache/commons/collections/bag/.*
+- ./bin/org/apache/commons/collections/bidimap/.*
+- ./bin/org/apache/commons/collections/buffer/.*
+- ./bin/org/apache/commons/collections/collection/.*
+- ./bin/org/apache/commons/collections/comparators/.*
+- ./bin/org/apache/commons/collections/functors/.*
+- ./bin/org/apache/commons/collections/iterators/.*
+- ./bin/org/apache/commons/collections/keyvalue/.*
+- ./bin/org/apache/commons/collections/list/.*
+- ./bin/org/apache/commons/collections/map/.*
+- ./bin/org/apache/commons/collections/set/.*
+- ./data/.*
+- ./data/test/.*
+- ./xdocs/.*
+- ./xdocs/images/.*
+- ./xdocs/style/.*
